@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Chestogram</title>
+ <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000/"/>
+ <updated>2016-09-09T23:32:19-05:00</updated>
+ <id>http://127.0.0.1:4000</id>
+ <author>
+   <name>Ches</name>
+   <email>derek.hammond@live.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>so jekyll is pretty sweet</title>
+   <link href="http://127.0.0.1:4000/example-post.html"/>
+   <updated>2016-10-01T13:26:34-05:00</updated>
+   <id>http://127.0.0.1:4000/example-post</id>
+   <content type="html">&lt;p&gt;What usually happens in the educational process is that the faculties are dulled, overloaded, stuffed and paralyzed so that by the time most people are mature they have lost their innate capabilities. R. Buckminster Fuller&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Video Post on Jekyll</title>
+   <link href="http://127.0.0.1:4000/my-first-video-post.html"/>
+   <updated>2016-09-09T18:26:34-05:00</updated>
+   <id>http://127.0.0.1:4000/my-first-video-post</id>
+   <content type="html">&lt;p&gt;“Find meaning. Distinguish melancholy from sadness. Go out for a walk. It doesn’t have to be a romantic walk in the park, spring at its most spectacular moment, flowers and smells and outstanding poetical imagery smoothly transferring you into another world. It doesn’t have to be a walk during which you’ll have multiple life epiphanies and discover meanings no other brain ever managed to encounter. Do not be afraid of spending quality time by yourself. Find meaning or don’t find meaning but ‘steal’ some time and give it freely and exclusively to your own self. Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.” 
+― Albert Camus, Notebooks 1951-1959&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Normal Post on Jekyll</title>
+   <link href="http://127.0.0.1:4000/my-first-normal-post.html"/>
+   <updated>2015-08-15T08:26:34-05:00</updated>
+   <id>http://127.0.0.1:4000/my-first-normal-post</id>
+   <content type="html">&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
