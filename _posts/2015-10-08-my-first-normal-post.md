@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'My First Normal Post on Jekyll'
+title: 'A Jekyll Post'
 date: 2015-08-15 13:26:34
 categories: blog development
 tags: html css javascript

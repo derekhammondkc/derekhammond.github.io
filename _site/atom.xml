@@ -4,7 +4,7 @@
  <title>Chestogram</title>
  <link href="derekhammondkc.github.io/atom.xml" rel="self"/>
  <link href="derekhammondkc.github.io/"/>
- <updated>2016-09-10T15:15:02-05:00</updated>
+ <updated>2016-09-10T15:16:27-05:00</updated>
  <id>derekhammondkc.github.io</id>
  <author>
    <name>Ches</name>
@@ -33,7 +33,7 @@
  </entry>
  
  <entry>
-   <title>My First Normal Post on Jekyll</title>
+   <title>A Jekyll Post</title>
    <link href="derekhammondkc.github.io/my-first-normal-post.html"/>
    <updated>2015-08-15T08:26:34-05:00</updated>
    <id>derekhammondkc.github.io/my-first-normal-post</id>
