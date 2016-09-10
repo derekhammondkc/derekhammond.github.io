@@ -33,7 +33,7 @@ excerpt_separator: "\n\n"
 # Serving
 detach:  false
 port:    4000
-host:    github.io
+host:    127.0.0.1:4000
 baseurl: "derekhammondkc" # does not include hostname
 
 # Outputting
