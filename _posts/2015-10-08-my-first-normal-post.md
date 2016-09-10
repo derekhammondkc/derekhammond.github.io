@@ -4,7 +4,7 @@ title: 'A Jekyll Post'
 date: 2015-08-15 13:26:34
 categories: blog development
 tags: html css javascript
-lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
+lead_text: 'We were kids without fathers, so we found our fathers on wax and on the streets and in history, and in a way, that was a gift. We got to pick and choose the ancestors who would inspire the world we were going to make for ourselves. -Jay Z'
 ---
 
 What? What? Oh, I'm sorry, I thought this was America! 
