@@ -4,7 +4,7 @@
  <title>Chestogram</title>
  <link href="derekhammondkc.github.io/atom.xml" rel="self"/>
  <link href="derekhammondkc.github.io/"/>
- <updated>2016-09-10T15:45:57-05:00</updated>
+ <updated>2016-09-10T15:50:04-05:00</updated>
  <id>derekhammondkc.github.io</id>
  <author>
    <name>Ches</name>
@@ -29,6 +29,16 @@
    <id>derekhammondkc.github.io/my-first-video-post</id>
    <content type="html">&lt;p&gt;The best way to be in the water when the waves come is to budget time for swimming.
 -Smartcuts, Shane Snow&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>so jekyll is pretty sweet</title>
+   <link href="derekhammondkc.github.io/post-02.html"/>
+   <updated>2016-09-09T08:26:34-05:00</updated>
+   <id>derekhammondkc.github.io/post-02</id>
+   <content type="html">&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
+
 </content>
  </entry>
  

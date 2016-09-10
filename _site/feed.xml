@@ -5,8 +5,8 @@
     <description>Panda Panda Panda Panda</description>
     <link>derekhammondkc.github.ioderekhammondkc.github.io/</link>
     <atom:link href="derekhammondkc.github.ioderekhammondkc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 15:45:57 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 15:45:57 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 15:50:04 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 15:50:04 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -46,6 +46,28 @@
         
         
         <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>so jekyll is pretty sweet</title>
+        <description>&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
         
       </item>
     
