@@ -2,8 +2,8 @@
 layout: inner
 title: 'A Simple Solution To Traffic'
 date: 2015-08-15 13:26:34
-categories: blog development
-tags: html css javascript
+categories: AI, Autonomous Cars
+tags: self driving cars, humans, traffic
 featured_video_id: iHzzSao6ypE
 lead_text: 'Ban Humans from the road.'
 ---
