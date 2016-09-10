@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chestogram</title>
+    <description>Panda Panda Panda Panda</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 09 Sep 2016 23:32:19 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2016 23:32:19 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>so jekyll is pretty sweet</title>
+        <description>&lt;p&gt;What usually happens in the educational process is that the faculties are dulled, overloaded, stuffed and paralyzed so that by the time most people are mature they have lost their innate capabilities. R. Buckminster Fuller&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Oct 2016 13:26:34 -0500</pubDate>
+        <link>http://127.0.0.1:4000/example-post.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/example-post.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Video Post on Jekyll</title>
+        <description>&lt;p&gt;“Find meaning. Distinguish melancholy from sadness. Go out for a walk. It doesn’t have to be a romantic walk in the park, spring at its most spectacular moment, flowers and smells and outstanding poetical imagery smoothly transferring you into another world. It doesn’t have to be a walk during which you’ll have multiple life epiphanies and discover meanings no other brain ever managed to encounter. Do not be afraid of spending quality time by yourself. Find meaning or don’t find meaning but ‘steal’ some time and give it freely and exclusively to your own self. Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.” 
+― Albert Camus, Notebooks 1951-1959&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 18:26:34 -0500</pubDate>
+        <link>http://127.0.0.1:4000/my-first-video-post.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/my-first-video-post.html</guid>
+        
+        <category>mars</category>
+        
+        <category>videos</category>
+        
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Normal Post on Jekyll</title>
+        <description>&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 15 Aug 2015 08:26:34 -0500</pubDate>
+        <link>http://127.0.0.1:4000/my-first-normal-post.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/my-first-normal-post.html</guid>
+        
+        <category>html</category>
+        
+        <category>css</category>
+        
+        <category>javascript</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
