@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'A Simple Solution To Traffic'
-date: 2015-08-15 13:26:34
+date: 2016-09-10 13:26:34
 categories: AI, Autonomous Cars
 tags: self driving cars, humans, traffic
 featured_video_id: iHzzSao6ypE

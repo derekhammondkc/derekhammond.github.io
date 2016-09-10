@@ -5,29 +5,41 @@
     <description>Panda Panda Panda Panda</description>
     <link>derekhammondkc.github.ioderekhammondkc.github.io/</link>
     <atom:link href="derekhammondkc.github.ioderekhammondkc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 16:11:41 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 16:11:41 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 16:22:09 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 16:22:09 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>so jekyll is pretty sweet</title>
-        <description>&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
+        <title>A Simple Solution To Traffic</title>
+        <description>&lt;p&gt;Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.&lt;/p&gt;
+
+&lt;p&gt;The best intersection is no intersection.&lt;/p&gt;
+
+&lt;p&gt;The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.&lt;/p&gt;
+
+&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 01 Oct 2016 13:26:34 -0500</pubDate>
-        <link>derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</link>
-        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</guid>
+        <pubDate>Sat, 10 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/simple-solution-to-traffic.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/simple-solution-to-traffic.html</guid>
         
-        <category>cats</category>
+        <category>self</category>
         
-        <category>dogs</category>
+        <category>driving</category>
         
-        <category>code</category>
+        <category>cars,</category>
+        
+        <category>humans,</category>
+        
+        <category>traffic</category>
         
         
-        <category>blog</category>
+        <category>AI,</category>
         
-        <category>development</category>
+        <category>Autonomous</category>
+        
+        <category>Cars</category>
         
       </item>
     
@@ -55,8 +67,8 @@
 
 </description>
         <pubDate>Fri, 09 Sep 2016 08:26:34 -0500</pubDate>
-        <link>derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</link>
-        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</guid>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</guid>
         
         <category>cats</category>
         
@@ -72,25 +84,19 @@
       </item>
     
       <item>
-        <title>A Simple Solution To Traffic</title>
-        <description>&lt;p&gt;Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.&lt;/p&gt;
-
-&lt;p&gt;The best intersection is no intersection.&lt;/p&gt;
-
-&lt;p&gt;The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.&lt;/p&gt;
-
-&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
+        <title>so jekyll is pretty sweet</title>
+        <description>&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 15 Aug 2015 08:26:34 -0500</pubDate>
-        <link>derekhammondkc.github.ioderekhammondkc.github.io/my-first-normal-post.html</link>
-        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/my-first-normal-post.html</guid>
+        <pubDate>Fri, 09 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</guid>
         
-        <category>html</category>
+        <category>cats</category>
         
-        <category>css</category>
+        <category>dogs</category>
         
-        <category>javascript</category>
+        <category>code</category>
         
         
         <category>blog</category>

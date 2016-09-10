@@ -4,7 +4,7 @@
  <title>Chestogram</title>
  <link href="derekhammondkc.github.io/atom.xml" rel="self"/>
  <link href="derekhammondkc.github.io/"/>
- <updated>2016-09-10T16:11:41-05:00</updated>
+ <updated>2016-09-10T16:22:09-05:00</updated>
  <id>derekhammondkc.github.io</id>
  <author>
    <name>Ches</name>
@@ -13,11 +13,17 @@
 
  
  <entry>
-   <title>so jekyll is pretty sweet</title>
-   <link href="derekhammondkc.github.io/example-post.html"/>
-   <updated>2016-10-01T13:26:34-05:00</updated>
-   <id>derekhammondkc.github.io/example-post</id>
-   <content type="html">&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
+   <title>A Simple Solution To Traffic</title>
+   <link href="derekhammondkc.github.io/simple-solution-to-traffic.html"/>
+   <updated>2016-09-10T08:26:34-05:00</updated>
+   <id>derekhammondkc.github.io/simple-solution-to-traffic</id>
+   <content type="html">&lt;p&gt;Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.&lt;/p&gt;
+
+&lt;p&gt;The best intersection is no intersection.&lt;/p&gt;
+
+&lt;p&gt;The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.&lt;/p&gt;
+
+&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
 
 </content>
  </entry>
@@ -34,26 +40,20 @@
  
  <entry>
    <title>so jekyll is pretty sweet</title>
-   <link href="derekhammondkc.github.io/post-02.html"/>
+   <link href="derekhammondkc.github.io/example-post.html"/>
    <updated>2016-09-09T08:26:34-05:00</updated>
-   <id>derekhammondkc.github.io/post-02</id>
+   <id>derekhammondkc.github.io/example-post</id>
    <content type="html">&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>A Simple Solution To Traffic</title>
-   <link href="derekhammondkc.github.io/my-first-normal-post.html"/>
-   <updated>2015-08-15T08:26:34-05:00</updated>
-   <id>derekhammondkc.github.io/my-first-normal-post</id>
-   <content type="html">&lt;p&gt;Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.&lt;/p&gt;
-
-&lt;p&gt;The best intersection is no intersection.&lt;/p&gt;
-
-&lt;p&gt;The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.&lt;/p&gt;
-
-&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
+   <title>so jekyll is pretty sweet</title>
+   <link href="derekhammondkc.github.io/post-02.html"/>
+   <updated>2016-09-09T08:26:34-05:00</updated>
+   <id>derekhammondkc.github.io/post-02</id>
+   <content type="html">&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
 
 </content>
  </entry>
