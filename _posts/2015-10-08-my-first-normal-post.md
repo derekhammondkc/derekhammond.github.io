@@ -1,11 +1,18 @@
 ---
 layout: inner
-title: 'A Jekyll Post'
+title: 'A Simple Solution To Traffic'
 date: 2015-08-15 13:26:34
 categories: blog development
 tags: html css javascript
-lead_text: 'We were kids without fathers, so we found our fathers on wax and on the streets and in history, and in a way, that was a gift. We got to pick and choose the ancestors who would inspire the world we were going to make for ourselves. -Jay Z'
+featured_video_id: iHzzSao6ypE
+lead_text: 'Ban Humans from the road.'
 ---
+
+Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there's no need for an intersection.  No Intersections. No more traffic lights. 
+
+The best intersection is no intersection. 
+
+The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.
 
 What? What? Oh, I'm sorry, I thought this was America! 
 
