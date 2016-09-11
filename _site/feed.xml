@@ -1,105 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ches Planet</title>
-    <description>A Jekyll theme - Medium inspired
-</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 10 Sep 2016 19:58:07 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 19:58:07 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <title>Chestogram</title>
+    <description>Panda Panda Panda Panda</description>
+    <link>derekhammondkc.github.ioderekhammondkc.github.io/</link>
+    <atom:link href="derekhammondkc.github.ioderekhammondkc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Sep 2016 16:22:09 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 16:22:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Mediator Features</title>
-        <description>&lt;h1 id=&quot;mediator-formats-and-css-features&quot;&gt;Mediator Formats and CSS features&lt;/h1&gt;
+        <title>A Simple Solution To Traffic</title>
+        <description>&lt;p&gt;Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.&lt;/p&gt;
 
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
+&lt;p&gt;The best intersection is no intersection.&lt;/p&gt;
 
-&lt;h1 id=&quot;header-formats&quot;&gt;Header Formats&lt;/h1&gt;
-&lt;p&gt;#Header1
-##Header2&lt;/p&gt;
+&lt;p&gt;The fundamental problem with traffic that you watch unfold, as with everything, is people. So the real simple solution to traffic is: no more monkeys driving cars.&lt;/p&gt;
 
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
 
-&lt;h1 id=&quot;lists&quot;&gt;Lists&lt;/h1&gt;
-&lt;p&gt;##orderd lists
-1. one
-2. two
-3. three&lt;/p&gt;
-
-&lt;h2 id=&quot;unorderd-lists&quot;&gt;unorderd lists&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Apple&lt;/li&gt;
-  &lt;li&gt;Banana&lt;/li&gt;
-  &lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
-&lt;p&gt;This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;combinations&quot;&gt;Combinations&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Apple&lt;/li&gt;
-    &lt;li&gt;Banana&lt;/li&gt;
-    &lt;li&gt;Plum&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 08:34:25 -0600</pubDate>
-        <link>/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <pubDate>Sat, 10 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/simple-solution-to-traffic.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/simple-solution-to-traffic.html</guid>
         
-        <category>featured</category>
+        <category>self</category>
+        
+        <category>driving</category>
+        
+        <category>cars,</category>
+        
+        <category>humans,</category>
+        
+        <category>traffic</category>
         
         
-        <category>mediator</category>
+        <category>AI,</category>
         
-        <category>feature</category>
+        <category>Autonomous</category>
+        
+        <category>Cars</category>
         
       </item>
     
       <item>
-        <title>Welcome to Ches Planet!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;site-footer&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;subscribe&amp;quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/feed.xml&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;tooltip&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;fa fa-rss&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;inner&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;copyright&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mailto:derek.hammond@live.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Ches&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt; &amp;amp;copy; 2016 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;poweredby&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;http://jekyllrb.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/a&amp;gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        <title>My First Video Post on Jekyll</title>
+        <description>&lt;p&gt;The best way to be in the water when the waves come is to budget time for swimming.
+-Smartcuts, Shane Snow&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 18:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/my-first-video-post.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/my-first-video-post.html</guid>
+        
+        <category>mars</category>
+        
+        <category>videos</category>
+        
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>so jekyll is pretty sweet</title>
+        <description>&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 29 Aug 2014 09:34:25 -0500</pubDate>
-        <link>/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 09 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/example-post.html</guid>
         
-        <category>featured</category>
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
-        <category>update</category>
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>so jekyll is pretty sweet</title>
+        <description>&lt;p&gt;Andrew Mason created Groupon and became a billionaire in 2 years.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Sep 2016 08:26:34 -0500</pubDate>
+        <link>derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</link>
+        <guid isPermaLink="true">derekhammondkc.github.ioderekhammondkc.github.io/post-02.html</guid>
+        
+        <category>cats</category>
+        
+        <category>dogs</category>
+        
+        <category>code</category>
+        
+        
+        <category>blog</category>
+        
+        <category>development</category>
         
       </item>
     

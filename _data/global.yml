@@ -1,0 +1,10 @@
+# Site Settings
+title: 'Chestogram'
+description: 'Panda Panda Panda Panda'
+url: 'derekhammondkc.github.io' # the base hostname & protocol for your site
+footer_text: 'Steal This Website'
+
+# Admin Settings
+admin_name: 'Ches'
+admin_email: 'derek.hammond@live.com'
+
