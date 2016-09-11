@@ -1,72 +1,59 @@
-# Where things are
-source:      .
-destination: ./_site
-plugins_dir:     ./_plugins
-layouts_dir:     ./_layouts
-data_dir: ./_data
-# collections: null
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-# Handling Reading
-safe:         false
-include:      [".htaccess"]
-exclude:      []
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Site settings
+title: "Ches Planet"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
 
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      true
-unpublished: false
+email: derek.hammond@live.com
+#blog logo
+logo: "/assets/images/cheshire.jpg"
+# blog cover
+cover: "/assets/images/japan.jpg"
 
-# Plugins
-whitelist: []
-gems:      [jekyll-paginate]
+name: 'Ches'
+author: 'Ches'
+author_image: "/assets/images/me.jpg"
 
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
+paginate:	5
 
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1:4000
-baseurl: "" # does not include hostname
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@derekhammondkc'
 
-# Outputting
-permalink:     /:title.html
-paginate: 10
-paginate_path: /page:num
-timezone:      null
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
 
-quiet:    false
-defaults: []
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
-# Markdown Processors
-rdiscount:
-  extensions: []
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 
-redcarpet:
-  extensions: []
+  - icon:	github
+    url:	https://github.com/derekhammondkc
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
 
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-
-
-include: ['_pages']
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

@@ -1,346 +1,248 @@
-<!doctype html>
-<!--[if lt IE 7 ]><html itemscope itemtype="http://schema.org/Organization" id="ie6" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 7 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie7" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 8 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie8" class="ie ie-old" lang="en-US"><![endif]-->
-<!--[if IE 9 ]>   <html itemscope itemtype="http://schema.org/Organization" id="ie9" class="ie" lang="en-US"><![endif]-->
-<!--[if gt IE 9]><!--><html itemscope itemtype="http://schema.org/Organization" lang="en-US"><!--<![endif]-->
-<head>
+<!DOCTYPE html>
+<html>
 
-    <!-- Meta -->
-    <meta charset="utf-8">
-    <!--
-      /$$$$$$                        /$$               /$$
-     /$$__  $$                      | $$              | $$
-    | $$  \__/  /$$$$$$$  /$$$$$$  /$$$$$$    /$$$$$$$| $$$$$$$
-    |  $$$$$$  /$$_____/ /$$__  $$|_  $$_/   /$$_____/| $$__  $$
-     \____  $$| $$      | $$  \ $$  | $$    | $$      | $$  \ $$
-     /$$  \ $$| $$      | $$  | $$  | $$ /$$| $$      | $$  | $$
-    |  $$$$$$/|  $$$$$$$|  $$$$$$/  |  $$$$/|  $$$$$$$| $$  | $$
-     \______/  \_______/ \______/    \___/   \_______/|__/  |__/
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  <title>Ches Planet</title>
+  <meta name="description" content="A Jekyll theme - Medium inspired
+" />
 
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@derekhammondkc" />
+    <meta name="twitter:title" content="Ches Planet" />
+    <meta name="twitter:image" content="/assets/images/cheshire.jpg" />
+    
+    <meta name="twitter:description" content="A Jekyll theme - Medium inspired" />
+    
+  
+  
+  <meta property="og:site_name" content="Ches Planet" />
+  <meta property="og:title" content="Ches Planet"/>
+  
+  <meta property="og:description" content="A Jekyll theme - Medium inspired" />
+  
+  <meta property="og:image" content="/assets/images/cheshire.jpg" />
+  <meta property="og:url" content="/" >
+  <meta property="og:type" content="blog" />
+  
 
-        /$$$$$           /$$                 /$$ /$$
-       |__  $$          | $$                | $$| $$
-          | $$  /$$$$$$ | $$   /$$ /$$   /$$| $$| $$
-          | $$ /$$__  $$| $$  /$$/| $$  | $$| $$| $$
-     /$$  | $$| $$$$$$$$| $$$$$$/ | $$  | $$| $$| $$
-    | $$  | $$| $$_____/| $$_  $$ | $$  | $$| $$| $$
-    |  $$$$$$/|  $$$$$$$| $$ \  $$|  $$$$$$$| $$| $$
-     \______/  \_______/|__/  \__/ \____  $$|__/|__/
-                                   /$$  | $$
-                                  |  $$$$$$/
-                                   \______/
-    -->
-    <title>Chestogram ♥ Panda Panda Panda Panda</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <meta content="yes" name="apple-mobile-web-app-capable">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="canonical" href="/"/>
+  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png"/>
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <!-- RSS -->
-    <link rel="alternate" type="application/rss+xml" title="Chestogram ♥ Panda Panda Panda Panda" href="derekhammondkc.github.io/feed.xml">
-    <link rel="alternate" type="application/atom+xml" title="Chestogram ♥ Panda Panda Panda Panda" href="derekhammondkc.github.io/atom.xml">
-
-    <!-- Favicons 
-    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64 96x96" href="derekhammondkc.github.io/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="derekhammondkc.github.io/img/favicons/favicon-57.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="derekhammondkc.github.io/img/favicons/favicon-57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="derekhammondkc.github.io/img/favicons/favicon-60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="derekhammondkc.github.io/img/favicons/favicon-72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="derekhammondkc.github.io/img/favicons/favicon-76.png">
-    <link rel="apple-touch-icon" sizes="96x96" href="derekhammondkc.github.io/img/favicons/favicon-96.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="derekhammondkc.github.io/img/favicons/favicon-114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="derekhammondkc.github.io/img/favicons/favicon-120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="derekhammondkc.github.io/img/favicons/favicon-144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="derekhammondkc.github.io/img/favicons/favicon-152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="derekhammondkc.github.io/img/favicons/favicon-180.png">
-    <link rel="apple-touch-icon" sizes="192x192" href="derekhammondkc.github.io/img/favicons/favicon-192.png">
-    <meta name="application-name" content="Chestogram ♥ Panda Panda Panda Panda">
-    <meta name="msapplication-TileImage" content="derekhammondkc.github.io/img/favicons/favicon-144.png">
-    <meta name="msapplication-TileColor" content="#ffffff"> -->
-
-   
-    <link rel="shortcut icon" type="image/png" href="derekhammondkc.github.io/img/favicon.png">
-
-    <!-- Fonts -->
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-    <!-- Styles -->
-    <link rel="stylesheet" href="derekhammondkc.github.io/css/style.css">
-    <!--[if lt IE 9]>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="derekhammondkc.github.io/js/respond.min.js"></script>
-    <![endif]-->
-
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
 </head>
-<body class="">
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/"><i class="fa fa-heart"></i> Chestogram</a>
+
+  <body>
+
+    <!-- header start -->
+
+<a href="" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/cheshire.jpg)"></span></a>
+
+<!-- header end -->
+
+
+    <!-- content start -->
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="teaserimage">
+    <div class="teaserimage-image" style="background-image: url(/assets/images/japan.jpg)">
+        Teaser Image
+    </div>
+</div>
+
+<header class="blog-header">
+    
+      <a class="blog-logo" href="" style="background-image: url('/assets/images/cheshire.jpg')">Ches Planet</a>
+    
+    <h1 class="blog-title">Ches Planet</h1>
+    <h2 class="blog-description">A Jekyll theme - Medium inspired
+</h2>
+    <div class="custom-links">
+      
+        
+            <a class="icon-twitter" href="https://twitter.com/dirkfabisch"  title="Follow me on twitter"">
+              <i class="fa fa-twitter"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        
+      
+        
+            <a class="icon-github" href="https://github.com/derekhammondkc"  title="Fork me on github"">
+              <i class="fa fa-github"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        
+      
+      <a href="/about/">About</a>
+    </div>
+</header>
+
+
+<main class="content" role="main">
+
+    
+    <h5 class="index-headline featured"><span>Featured</span></h5>
+
+    <div class="container featured">
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/mediator/feature/2014/11/30/mediator_features.html" itemprop="url">Mediator Features</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>Mediator Formats and CSS features Examples for different formats and css features Header Formats #Header1 ##Header2 Blockquotes Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="30 November 2014">30 November 2014</time>
+  <!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
             </div>
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    
-                        <li>
-                            <a href="/">Blog</a>
-                        </li>
-                    
-                        <li>
-                            <a href="/about">About</a>
-                        </li>
-                    
-                        <li>
-                            <a href="http://twitter.com/derekhammondkc">Twitter</a>
-                        </li>
-                    
-                        <li>
-                            <a href="https://github.com/derekhammondkc">Find Me On GitHub</a>
-                        </li>
-                    
-                </ul>
+          </div>
+        </article>
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/jekyll/update/2014/08/29/welcome-to-jekyll.html" itemprop="url">Welcome to Ches Planet!</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve --watch, which launches a web server and auto-regenerates your site...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="29 August 2014">29 August 2014</time>
+  <!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
             </div>
-        </div>
+          </div>
+        </article>
+      
+    </div>
+
+    <h5 class="index-headline normal"><span>Regular</span></h5>
+    
+
+    <div class="cf frame">
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/mediator/feature/2014/11/30/mediator_features.html" itemprop="url">Mediator Features</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>Mediator Formats and CSS features
+
+</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="30 November 2014">30 November 2014</time>
+<!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="/jekyll/update/2014/08/29/welcome-to-jekyll.html" itemprop="url">Welcome to Ches Planet!</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve --watch, which launches a web server and auto-regenerates your site...</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="29 August 2014">29 August 2014</time>
+<!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+            </div>
+          </div>
+        </article>
+      
+    </div>
+
+    <nav class="pagination" role="navigation">
+      
+      <span class="page-number">Page 1 of 1</span>
+      
     </nav>
 
 
+    <!-- 
+     -->
 
+</main>
 
-    
-
-<div class="title-group">
-    <h1 class="special">
-        <span>
-        
-            Chestogram
-        
-        </span>
-    </h1>
-    
-    <p class="lead">
-        
-            Panda Panda Panda Panda
-        
-    </p>
-</div>
-
-    <main>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    
-                        <div class="tile">
-    
-    <a href="derekhammondkc.github.io/simple-solution-to-traffic.html" class="featurette">
-        
-
-        
-        <iframe src="https://www.youtube.com/embed/iHzzSao6ypE" frameborder="0" allowfullscreen></iframe>
-        
-    </a>
-    
-    <div class="inner-guts">
-        <h2><a href="derekhammondkc.github.io/simple-solution-to-traffic.html">A Simple Solution To Traffic</a></h2>
-        <aside>
-            09.10.16
-            
-                &middot;
-                
-                    <span>AI,</span>
-                
-                    <span>Autonomous</span>
-                
-                    <span>Cars</span>
-                
-            
-        </aside>
-        <div class="excerpt"><p>Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there’s no need for an intersection.  No Intersections. No more traffic lights.</p>
-
-</div>
-        <a href="derekhammondkc.github.io/simple-solution-to-traffic.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
-        
-        <div class="tags">
-            
-            <span>self</span>
-            
-            <span>driving</span>
-            
-            <span>cars,</span>
-            
-            <span>humans,</span>
-            
-            <span>traffic</span>
-            
-        </div>
-        
+      </div>
     </div>
-</div>
-                    
-                        <div class="tile">
-    
-    <a href="derekhammondkc.github.io/my-first-video-post.html" class="featurette">
-        
 
-        
-        <iframe src="https://www.youtube.com/embed/VGj5EffwnDg" frameborder="0" allowfullscreen></iframe>
-        
-    </a>
-    
-    <div class="inner-guts">
-        <h2><a href="derekhammondkc.github.io/my-first-video-post.html">My First Video Post on Jekyll</a></h2>
-        <aside>
-            09.09.16
-            
-                &middot;
-                
-                    <span>privacy</span>
-                
-            
-        </aside>
-        <div class="excerpt"><p>The best way to be in the water when the waves come is to budget time for swimming.
--Smartcuts, Shane Snow</p>
-</div>
-        <a href="derekhammondkc.github.io/my-first-video-post.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
-        
-        <div class="tags">
-            
-            <span>mars</span>
-            
-            <span>videos</span>
-            
-        </div>
-        
+    <!-- content end -->
+
+    <!-- footer start -->
+
+<footer class="site-footer">
+  <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+    <div class="inner">
+         <section class="copyright">All content copyright <a href="mailto:derek.hammond@live.com">Ches</a> &copy; 2016 &bull; All rights reserved.</section>
+         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
     </div>
-</div>
-                    
-                        <div class="tile">
+</footer>
+
+<!-- footer end -->
+
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
     
-    <a href="derekhammondkc.github.io/example-post.html" class="featurette">
-        
-        <span class="img" style="background-image: url('http://i.imgur.com/XuzwvKn.jpg');"></span>
-        
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
 
-        
-    </a>
-    
-    <div class="inner-guts">
-        <h2><a href="derekhammondkc.github.io/example-post.html">so jekyll is pretty sweet</a></h2>
-        <aside>
-            09.09.16
-            
-                &middot;
-                
-                    <span>blog</span>
-                
-                    <span>development</span>
-                
-            
-        </aside>
-        <div class="excerpt"><p>Andrew Mason created Groupon and became a billionaire in 2 years.</p>
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
 
-</div>
-        <a href="derekhammondkc.github.io/example-post.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
-        
-        <div class="tags">
-            
-            <span>cats</span>
-            
-            <span>dogs</span>
-            
-            <span>code</span>
-            
-        </div>
-        
-    </div>
-</div>
-                    
-                        <div class="tile">
-    
-    <a href="derekhammondkc.github.io/post-02.html" class="featurette">
-        
-        <span class="img" style="background-image: url('https://i.redd.it/oxtt0tjrmpkx.jpg');"></span>
-        
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
 
-        
-    </a>
-    
-    <div class="inner-guts">
-        <h2><a href="derekhammondkc.github.io/post-02.html">so jekyll is pretty sweet</a></h2>
-        <aside>
-            09.09.16
-            
-                &middot;
-                
-                    <span>blog</span>
-                
-                    <span>development</span>
-                
-            
-        </aside>
-        <div class="excerpt"><p>Andrew Mason created Groupon and became a billionaire in 2 years.</p>
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
 
-</div>
-        <a href="derekhammondkc.github.io/post-02.html" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
-        
-        <div class="tags">
-            
-            <span>cats</span>
-            
-            <span>dogs</span>
-            
-            <span>code</span>
-            
-        </div>
-        
-    </div>
-</div>
-                    
-
-                    <nav class="pagination-wrap">
-    <ul class="pagination">
-        
-
-        
-            
-            <li class="active">
-                <a href="#">1</a>
-            </li>
-            
-        
-
-        
-    </ul>
-</nav>
-                </div>
-            </div>
-        </div>
-    </main>
+  });
+}(jQuery));
+</script>
 
 
-    <footer class="site-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="text-muted">Steal This Website</p>
-                </div>
-            </div>
-        </div>
-    </footer>
 
+  </body>
 
-    <!-- JavaScript -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="derekhammondkc.github.io/js/power.js"></script>
-
-    </body>
 </html>

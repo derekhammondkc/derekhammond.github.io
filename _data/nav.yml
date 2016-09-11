@@ -1,5 +1,0 @@
-main:
-    - { url: '/', text: 'Blog' }
-    - { url: '/about', text: 'About' }
-    - { url: 'http://twitter.com/derekhammondkc', text: 'Twitter' }
-    - { url: 'https://github.com/derekhammondkc', text: 'Find Me On GitHub' }
