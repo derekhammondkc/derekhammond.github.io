@@ -1,0 +1,12 @@
+---
+layout: inner
+title: 'A footnote on Encryption and I phones'
+date: 2016-09-12 09:08:34
+categories: privacy 
+tags: Encryption videos
+featured_video_id: e-ZpsxnmmbE
+lead_text: 'A footnote on Encrption'
+---
+
+The best way to be in the water when the waves come is to budget time for swimming.
+-Smartcuts, Shane Snow
