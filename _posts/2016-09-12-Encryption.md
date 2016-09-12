@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'Should all locks have keys?'
-date: 2016-09-10 13:26:34
+date: 2016-09-12 12:26:34
 categories: AI, Autonomous Cars
 tags: Phones, Castles, Encryption, You
 featured_video_id: VPBH1eW28mo
