@@ -8,7 +8,7 @@ featured_video_id: iHzzSao6ypE
 lead_text: 'Ban Humans from the road.'
 ---
 
-Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there's no need for an intersection.  No Intersections. No more traffic lights. 
+Structually Systematized Solution. Self driving cars can talk to each other at the speed of light. So there's no need for an intersection.  No Intersections. No more traffic lights. No more monkeys driving cars
 
 The best intersection is no intersection. 
 
