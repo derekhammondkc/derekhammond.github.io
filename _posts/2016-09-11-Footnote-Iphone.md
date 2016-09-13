@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'A footnote on Encryption and I phones'
-date: 2016-09-12 09:08:34
+date: 2016-09-12 13:25:34
 categories: privacy encryption 
 tags: Encryption videos
 featured_video_id: e-ZpsxnmmbE
