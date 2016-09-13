@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'so space is pretty cool'
-date: 2016-09-09 13:26:34
+date: 2016-09-09 13:00:34
 categories: Space Awesomeness
 tags: cats dogs space code
 featured_image: 'http://photojournal.jpl.nasa.gov/jpeg/PIA14946.jpg'
