@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'so jekyll is pretty sweet'
-date: 2016-09-09 13:26:34
+date: 2016-09-09 13:05:00
 categories: blog development
 tags: cats dogs code
 featured_image: 'https://i.redd.it/oxtt0tjrmpkx.jpg'
