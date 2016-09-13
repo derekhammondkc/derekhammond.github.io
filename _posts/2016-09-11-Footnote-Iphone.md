@@ -8,4 +8,4 @@ featured_video_id: e-ZpsxnmmbE
 lead_text: 'Thinking of your phone as an extension of yourself is not an exageration; it's a statement of fact.'
 ---
 
-Given the choice to have someone read your mind or read your phone, if you think about it, you'd probably choose the former. 
+Given the choice to have someone read your mind or read your phone, if you think about it, you'd probably choose the former.
