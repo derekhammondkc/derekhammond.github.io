@@ -3,7 +3,7 @@ layout: inner
 title: 'so jekyll is pretty sweet'
 date: 2016-09-09 13:26:34
 categories: Space Awesomeness
-tags: cats dogs code
+tags: cats dogs space code
 featured_image: 'http://imgur.com/MhDfscC.jpg'
 lead_text: 'What usually happens in the educational process is that the faculties are dulled, overloaded, stuffed and paralyzed so that by the time most people are mature they have lost their innate capabilities. R. Buckminster Fuller'
 ---
