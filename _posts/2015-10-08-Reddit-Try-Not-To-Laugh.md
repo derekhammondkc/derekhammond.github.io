@@ -1,9 +1,9 @@
 ---
 layout: inner
-title: 'My First Video Post on Jekyll'
+title: 'Reddit's Try Not To Laugh Challenge'
 date: 2016-09-09 23:26:34
-categories: privacy 
-tags: mars videos
+categories: Reddit 
+tags: Funny videos
 featured_video_id: VGj5EffwnDg
 lead_text: 'Sometimes the answeres are complicated and the answers are simple. -Dr. Seuss'
 ---
