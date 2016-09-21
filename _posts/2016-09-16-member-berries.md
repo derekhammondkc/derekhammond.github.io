@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Remember Berries?!'
+title: 'Member Berries?!'
 date: 2016-09-16 13:26:34
 categories: much berries many mem
 tags: south park code
